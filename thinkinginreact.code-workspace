@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "../react/quick-start/thinkinginreact"
+		},
+		{
+			"path": "../react/quick-start/quick-start"
+		},
+		{
+			"path": "../react/quick-start/tic-tac-toe"
+		},
+		{
+			"path": "../react/quick-start/tsx101"
+		},
+		{
+			"path": "../react/quick-start/stater-reducer"
+		},
+		{
+			"path": "../react/quick-start/context"
+		},
+		{
+			"path": "../react/quick-start/context-plus-reducer"
+		},
+		{
+			"path": "../react/quick-start/escape_hatches"
+		},
+		{
+			"path": "../react/quick-start/api_xmlhttprequest"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
