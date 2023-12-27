@@ -26,4 +26,5 @@ git push -u origin main
 
 git chekout -b add-orders-queue
 
+git push --set-upstream origin feature101 //command to push new local branch(i.e. feature101) to remote
 
