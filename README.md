@@ -16,6 +16,8 @@ git branch -M main
 
 git add .
 
+git commit -m "Add orders queue and associated configuration"
+
 remote add origin https://github.com/Chalew99/BicepTutorSample.git
 
 git remote -v

@@ -1,3 +1,5 @@
+//Added this comment to check PR is working as expected
+
 @description('The Azure region into which the resources should be deployed.')
 param location string = 'westus3'
 
